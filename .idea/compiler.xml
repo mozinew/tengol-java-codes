@@ -8,13 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-jdk8" />
         <module name="java-hello" />
-        <module name="java-effictive" />
+        <module name="java-nio" />
+        <module name="java-efficient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java-effictive" target="1.8" />
-      <module name="java-hello" target="1.8" />
+      <module name="java-efficient" target="8" />
+      <module name="java-hello" target="8" />
       <module name="java-jdk8" target="8" />
+      <module name="java-nio" target="8" />
+      <module name="tengol-java-codes" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
