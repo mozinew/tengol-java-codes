@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/java-hello/pom.xml" />
         <option value="$PROJECT_DIR$/java-jdk8/pom.xml" />
+        <option value="$PROJECT_DIR$/java-effictive/pom.xml" />
       </list>
     </option>
   </component>
