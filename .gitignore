@@ -123,6 +123,7 @@ local.properties
 
 ### IntelliJ project files[Begin] ###
 .idea
+**/.idea/**
 **/.idea
 ./idea/**
 *.iml
