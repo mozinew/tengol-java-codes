@@ -5,6 +5,7 @@
 .mtj.tmp/
 
 # Package Files #
+*.jar
 *.war
 *.ear
 
@@ -123,9 +124,6 @@ local.properties
 
 ### IntelliJ project files[Begin] ###
 .idea
-**/.idea/**
-**/.idea
-./idea/**
 *.iml
 out
 gen

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-hello/java-hello.iml" filepath="$PROJECT_DIR$/java-hello/java-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-jdk8/java-jdk8.iml" filepath="$PROJECT_DIR$/java-jdk8/java-jdk8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-nio/java-nio.iml" filepath="$PROJECT_DIR$/java-nio/java-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-spi/java-spi.iml" filepath="$PROJECT_DIR$/java-spi/java-spi.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-utils/java-utils.iml" filepath="$PROJECT_DIR$/java-utils/java-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tengol-java-codes.iml" filepath="$PROJECT_DIR$/.idea/tengol-java-codes.iml" />
     </modules>

@@ -12,6 +12,11 @@ import java.net.Inet4Address;
  */
 public class EqualDemo {
     public static void main(String[] args) {
+        //test1();
+        System.out.println("he" + new String("llo") == "hello");
+    }
+
+    private static void test1() {
         Integer a1 = 1;
         Integer a2 = 1;
         System.out.println(a1 == a2);
