@@ -121,7 +121,6 @@ local.properties
 ### Eclipse template[End] ###
 
 
-
 ### IntelliJ project files[Begin] ###
 .idea
 *.iml
