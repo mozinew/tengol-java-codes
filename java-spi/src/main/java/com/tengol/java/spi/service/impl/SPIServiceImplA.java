@@ -11,6 +11,6 @@ import com.tengol.java.spi.service.SPIService;
 public class SPIServiceImplA implements SPIService {
     @Override
     public void execute() {
-        System.out.println("SPIServiceImplB invoked ......");
+        System.out.println("SPIServiceImplA invoked ......");
     }
 }

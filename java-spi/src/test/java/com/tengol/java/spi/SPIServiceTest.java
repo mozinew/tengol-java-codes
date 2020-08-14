@@ -29,15 +29,13 @@ public class SPIServiceTest {
     public void testSPILoad() {
         // 加载方式 1
         Iterator<SPIService> providers = Service.providers(SPIService.class);
-        // 加载方式 2，可跟踪源码
-        ServiceLoader<SPIService> load = ServiceLoader.load(SPIService.class);
-
         while (providers.hasNext()) {
             SPIService service = providers.next();
             service.execute();
         }
         System.out.println("-----------------------");
-
+        // 加载方式 2，可跟踪源码
+        ServiceLoader<SPIService> load = ServiceLoader.load(SPIService.class);
         Iterator<SPIService> iterator = load.iterator();
         while (iterator.hasNext()) {
             SPIService spiService = iterator.next();
